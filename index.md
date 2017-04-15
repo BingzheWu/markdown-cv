@@ -1,52 +1,50 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Bingzhe's CV
 ---
 # BingzheWu
 
 ## Currently
-CS Phd at Peking University
+I am a Phd student at Peking University CS department now.
 
 ### Research interests
 
-Computer vision, Deep Learning Algorithm,
+Computer vision, Image Analysis, Low Precision Neural Network
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2012-2016`
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+__School of Mathematical Sciences, PEKING UNIVERSITY, Beijing, China__
 
-- Sizar
+__Bachelor of Engineering Computing__
 
-`1667 - death`
-__Trinity College, Cambridge__
+`2016-now`
 
-- Fellow
+__School of Electronics Engineering and Computer Science PKING UNIVERSITY, Beijing, China__
 
+__PHD of Computer Science__
 
 
 ## Awards
 
-`2012`
-President, *Royal Society*, London, UK
+* Meritorious Winner of American Mathematical Contest In Modeling. 2016
 
-Associate, *French Academy of Science*, Paris, France
+* The first-prize winner of China Middle School	Mathematical Competition 2011
+
+## Project Experiences
+
+* Reducing Overfitting in Deep Convolutional Neural Networks via A New Regularizer
+
+* Real Time Face Detection and Recognition on Android Devices	 Using Tensorflow
+
+* Filter-level Quantization of Neural Network
+
+* Single image super pixel resolution based GAN
 
 
-## Occupation
 
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
 
 
 
